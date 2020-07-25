@@ -1,4 +1,5 @@
-# fastjson blacklist
+# fastjson blacklist(20200725)
+
 # 参考 https://github.com/LeadroyaL/fastjson-blacklist
 
 ### 背景
