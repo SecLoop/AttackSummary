@@ -1,0 +1,47 @@
+```
+- /.bash_history
+- /.bash_history.php
+- /.bash_logout
+- /.bash_profile
+- /.bashrc
+- /.bashrc/
+- /.history
+- /.ksh_history
+- /.log_history
+- /.login_history
+- /.mweval_history
+- /.mwsql_history
+- /.mysql_history
+- /.nano_history
+- /.pass_history
+- /.pgsql_history
+- /.php_history
+- /.sh_history
+- /.sqlite_history
+- /.zsh_history
+- /HISTORY
+- /history
+- /History
+- /HISTORY.html
+- /history.html
+- /History.html
+- /HISTORY.md
+- /history.md
+- /History.md
+- /HISTORY.txt
+- /History.txt
+- /history.txt
+-/.bash_history
+-/.bash_profile
+-/.histfile
+-/.history
+-/.irb_history
+-/.irbrc
+-/.mysql_history
+-/.nano_history
+-/.psql_history
+-/.sh_history
+-/.sqlite_history
+-/.viminfo
+-/.zshrc
+```
